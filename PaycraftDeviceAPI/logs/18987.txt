@@ -1,0 +1,5 @@
+timestamp :11:33, cpu_usage :27
+timestamp :11:33, cpu_usage :37
+timestamp :11:33, cpu_usage :57
+timestamp :11:33, cpu_usage :67
+timestamp :11:33, cpu_usage :60
